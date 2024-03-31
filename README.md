@@ -29,6 +29,12 @@ Below shows the surface reconstruction results. There are 5 objects that are use
 
 ![NeRF: Surface Reconstruction](results.png)
 
+The major conclusions we can draw from our experiments are:
+
+- Compared with `multiple LoD` regular grids, `single LoD` grids consume fewer storage space and are faster to train. However, network with `multiple LoD` grids generate reconstruction of better quality.
+
+- `Hash grids` required much fewer storage space than `regular grids`; Networks with `hash grid` is much slow to train; Networks with `hash grids` generate far better reconstructions than `single LoD regular grids`.
+
 ## 3. Reference
 
 1. [ReLU Fields: Continuous 3D Convolutional Neural Fields for Shape Reconstruction](https://arxiv.org/pdf/2205.10824.pdf)
