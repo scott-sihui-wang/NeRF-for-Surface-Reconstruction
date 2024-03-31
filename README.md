@@ -12,4 +12,6 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Point Clouds_
 
+
+
 ## 2. Demo and Conclusion
