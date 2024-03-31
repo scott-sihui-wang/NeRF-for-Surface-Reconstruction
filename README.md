@@ -14,7 +14,7 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 ### 1.1 Background
 
-### 1.2 Tasks of the Project:
+### 1.2 Tasks of the Project
 
 - Implement NeRF model with single level of details;
 - Implement NeRF model with multiple level of details;
