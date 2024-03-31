@@ -25,7 +25,7 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 ## 2. Demo and Conclusion
 
-
+![NeRF: Surface Reconstruction](results.png)
 
 ## 3. Reference
 
