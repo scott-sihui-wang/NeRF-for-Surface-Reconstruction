@@ -25,6 +25,8 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 ## 2. Demo and Conclusion
 
+Below shows the surface reconstruction results. There are 5 objects that are used for our tests, namely, `bunny`, `column`, `dragon`, `serapis`, and `utah teapot`.
+
 ![NeRF: Surface Reconstruction](results.png)
 
 ## 3. Reference
