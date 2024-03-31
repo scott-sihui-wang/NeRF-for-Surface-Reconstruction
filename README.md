@@ -28,3 +28,9 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 
 ## 3. Reference
+
+1. [ReLU Fields: Continuous 3D Convolutional Neural Fields for Shape Reconstruction](https://arxiv.org/pdf/2205.10824.pdf)
+
+2. [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)
+
+3. [NGLOD: Real-time Rendering with Implicit 3D Shapes](https://research.nvidia.com/labs/toronto-ai/nglod/assets/nglod.pdf)
