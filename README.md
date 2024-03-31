@@ -14,6 +14,8 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 ### 1.1 Background
 
+`MLPs` have been proven to be surprisingly good at modelling complex spatially-varying functions, which include `radiance fields` (for rendering) and `occupancy fields` (for surface reconstruction).
+
 ### 1.2 Tasks of the Project
 
 - Implement NeRF model with single level of details;
