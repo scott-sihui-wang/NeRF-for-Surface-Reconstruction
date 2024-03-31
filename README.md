@@ -8,4 +8,8 @@ Please refer to `CMPT764_HW3.ipynb` (from [github page](CMPT764_HW3.ipynb) or [c
 
 Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Reconstruction.pdf) to get the main takeaway messages for this project.
 
+**Topics:** _Neural Rendering_, _Surface Reconstruction_
+
+**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Point Clouds_
+
 ## 2. Demo and Conclusion
