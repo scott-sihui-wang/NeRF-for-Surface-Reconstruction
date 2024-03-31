@@ -12,6 +12,17 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Point Clouds_, _Colab_
 
+### 1.1 Background
 
+### 1.2 Tasks of the Project:
+
+- Implement NeRF model with single level of details;
+- Implement NeRF model with multiple level of details;
+- Implement the feature grid as a Hash grid;
+- Compare the performance of the NeRF models with different implementation choices.
 
 ## 2. Demo and Conclusion
+
+
+
+## 3. Reference
