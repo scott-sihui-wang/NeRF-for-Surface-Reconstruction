@@ -10,7 +10,7 @@ Please also refer to my [presentation](Comparison_of_NeRF_models_for_Surface_Rec
 
 **Topics:** _Neural Rendering_, _Surface Reconstruction_
 
-**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Point Clouds_, _Colab_
+**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Point Clouds_, _Jupyter Lab_, _Colab_
 
 ### 1.1 Background
 
